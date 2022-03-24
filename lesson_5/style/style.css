@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#root>div{
+    width: 250px;
+    background-color: bisque;
+    padding: 10px;
+}
+
+#root>div img{
+    width: 80%
+}
