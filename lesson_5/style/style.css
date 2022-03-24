@@ -6,12 +6,22 @@
 #root{
     background-color: bisque;
     display: flex;
+    height: 400px;
     /* свободное место между элементами */
     /* justify-content: space-between;  */
     /* свободное место делится между элементами */
     /* justify-content: space-around; */
     /* свободное место делится равно между элементами */
     /* justify-content: space-evenly; */
+    /* justify-content: center;
+    justify-content: flex-start;
+    justify-content: flex-end; */
+
+    /* align-items: center; */
+    /* растянуть по вертикали */
+    /* align-items: stretch; */
+    /* align-items: flex-end; */
+    align-items: flex-start;
 }
 
 #root div{
