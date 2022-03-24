@@ -1,0 +1,26 @@
+12_03_2022
+https://github.com/tel-ran-de/28-29/issues/8
+
+AlexGeddert        | 5
+AndreasUglianski   | 5
+ArtemGoncharuck    | 5
+oleGAPrelev        | 5
+Tkachenko-Anna     | 5
+AntonSasko         | 5
+AlenaFilip         | 5
+MartaKliuchnik     | 5
+GutenbergEugen     | 5
+grabigor1990       | 
+elenakacher        | 5
+
+
+Комментарии:
+- не использовать br
+- не использовать onclick
+- придерживаться форматирования
+- не прописывать стилим в тегах
+- для списка используйте ul li
+- исключить горизонтальную прокрутку
+- не чередовать текст и теги внутри одного тега
+- лучше не использовать Кириллицу
+

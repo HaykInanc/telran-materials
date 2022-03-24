@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cards div{
+    width: 200px;
+    height: 80px;
+    background-color: bisque;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.letter{
+    font-size: 0;
+}
+
+.letter div{
+    height: 400px;
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.letter .text{
+    font-size: 15px;
+    background-color: blueviolet;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.letter .image{
+    background-image: url('https://cdn1.ozone.ru/s3/multimedia-k/c1200/6016017068.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+/* карточки с продуктами */
+.products{
+    font-size: 0;
+    text-align: center;
+}
+
+.products>*{
+    font-size: 15px;
+    text-align: left;
+}
+
+
+.products>div{
+    width: 200px;
+    height: 300px;
+    background-color: beige;
+    margin: 15px;
+    display: inline-block;
+}
+
+.products div img{
+    width: 80%;
+}
+
+
+
