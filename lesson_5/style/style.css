@@ -6,6 +6,12 @@
 #root{
     background-color: bisque;
     display: flex;
+    /* свободное место между элементами */
+    /* justify-content: space-between;  */
+    /* свободное место делится между элементами */
+    /* justify-content: space-around; */
+    /* свободное место делится равно между элементами */
+    /* justify-content: space-evenly; */
 }
 
 #root div{
