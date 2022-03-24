@@ -5,6 +5,7 @@
 
 #root{
     background-color: bisque;
+    display: flex;
 }
 
 #root div{
