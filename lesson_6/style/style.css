@@ -16,8 +16,10 @@
     width: 200px;
     height: 300px;
     background-color: #f5f6fa;
+    transition: box-shadow 0.5s;
+    border-radius: 10px;
 }
 
 .card:hover{
-    background-color: #afffba;
+    box-shadow: 5px 5px 10px black;
 }
