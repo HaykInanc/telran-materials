@@ -46,3 +46,19 @@
     width: 30px;
     height: 30px;
 }
+
+#contacts{
+    height: 600px;
+    display: flex;
+}
+
+#contacts>div{
+    width: 50%;
+}
+.info{
+    background-color: blanchedalmond;
+}
+
+.map{
+    background-color: cadetblue;
+}
