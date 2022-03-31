@@ -19,6 +19,10 @@ body{
     justify-content: space-between;
 }
 
+.image_cards div{
+    width: 33%;
+}
+
 
 .image_cards>div{
     width: 33%;
@@ -45,3 +49,5 @@ body{
     color: white;
     margin-top: 20px;
 }
+
+
