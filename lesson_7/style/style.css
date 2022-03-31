@@ -32,4 +32,10 @@
     cursor: pointer;
     top: -15px;
     right: -15px;
+    transition: color 0.5s, background-color 0.5s;
+}
+
+#root .cross:hover{
+    color: white;
+    background-color: #e17055;
 }
