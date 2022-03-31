@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body{
@@ -25,10 +26,16 @@ body{
     background-color: #5F27CD;
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: space-between;
+    padding: 20px;
 }
 
-.image_cards img{
-    width: 80%;
+.image_cards p{
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
 }
+
