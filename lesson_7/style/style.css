@@ -10,23 +10,27 @@
 }
 
 #root div{
-    width: 100px;
-    height: 100px;
     position: absolute;
+    height: 100px;
 }
 
 .elem_1{
     background-color: brown;
     left: 100px;
+    right: 100px;
     top: 100px;
 }
 
 .elem_2{
     background-color: #fd79a8;
+    left: 100px;
     right: 100px;
-    top: 100px;
+    top: 250px;
 }
 
 .elem_3{
     background-color: #0984e3;
+    left: 100px;
+    right: 100px;
+    top: 500px;
 }
