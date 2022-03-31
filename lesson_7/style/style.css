@@ -28,6 +28,8 @@
     color: #e17055;
     font-size: 25px;
     position: absolute;
+    background-color: white;
+    cursor: pointer;
     top: -15px;
     right: -15px;
 }
