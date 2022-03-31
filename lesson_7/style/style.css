@@ -14,6 +14,7 @@
     width: 300px;
     background-color: bisque;
     padding: 10px;
+    position: relative;
 }
 
 #root .cross{
@@ -26,4 +27,7 @@
     align-items: center;
     color: #e17055;
     font-size: 25px;
+    position: absolute;
+    top: 0;
+    right: 0;
 }
