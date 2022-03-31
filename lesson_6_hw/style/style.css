@@ -10,7 +10,6 @@ body{
 }
 
 .main{
-    background-color: azure;
     margin: 100px 150px;
 }
 
@@ -39,3 +38,9 @@ body{
     color: white;
 }
 
+.info{
+    background-color: #576574;
+    padding: 20px;
+    color: white;
+    margin-top: 20px;
+}
