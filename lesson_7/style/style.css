@@ -21,4 +21,9 @@
     height: 30px;
     border: 2px solid #e17055;
     border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e17055;
+    font-size: 25px;
 }
