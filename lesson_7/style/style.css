@@ -7,30 +7,28 @@
 #root{
     background-color: bisque;
     height: 100vh;
+    margin: 200px;
+    position: relative;
 }
 
 #root div{
-    position: absolute;
+    width: 100px;
     height: 100px;
+    position: absolute;
 }
 
 .elem_1{
     background-color: brown;
     left: 100px;
-    right: 100px;
     top: 100px;
 }
 
 .elem_2{
     background-color: #fd79a8;
-    left: 100px;
     right: 100px;
-    top: 250px;
+    top: 100px;
 }
 
 .elem_3{
     background-color: #0984e3;
-    left: 100px;
-    right: 100px;
-    top: 500px;
 }
