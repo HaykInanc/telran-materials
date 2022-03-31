@@ -10,8 +10,15 @@
     justify-content: space-between;
 }
 
-#root div{
+#root>div{
     width: 300px;
     background-color: bisque;
     padding: 10px;
+}
+
+#root .cross{
+    width: 30px;
+    height: 30px;
+    border: 2px solid #e17055;
+    border-radius: 50%;
 }
