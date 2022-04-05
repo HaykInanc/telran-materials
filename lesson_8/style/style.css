@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: 'Oswald';
+}
+
 header{
     background-image: url('../media/Rectangle.png');
     background-size: cover;
@@ -13,6 +17,15 @@ header{
     flex-direction: column;
     justify-content: flex-end;
     align-items: center;
+}
+
+h1{
+    font-size: 64px;
+    line-height: 95px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #FFFFFF;
 }
 
 .achievement{
