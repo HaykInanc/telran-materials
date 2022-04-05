@@ -75,13 +75,13 @@ header .achievement .text{
 #projects .container{
     width: 1110px;
     height: 700px;
-    background-color: rgb(36, 103, 103);
 }
 
 #projects h2{
     text-align: center;
     font-size: 36px;
     text-transform: uppercase;
+    margin-bottom: 60px;
 }
 
 #projects .cards{
@@ -92,7 +92,6 @@ header .achievement .text{
 #projects .cards div{
     width: 350px;
     min-height: 400px;
-    background-color: #24d7e4;
 }
 
 #projects .cards img{
