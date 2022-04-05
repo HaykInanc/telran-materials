@@ -64,3 +64,16 @@ header .achievement .text{
     color: #999999;
     font-size: 18px;
 }
+#projects{
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#projects .container{
+    width: 1110px;
+    height: 700px;
+    background-color: rgb(36, 103, 103);
+}
