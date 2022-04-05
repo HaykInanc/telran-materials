@@ -42,7 +42,8 @@ header .achievement{
     align-items: center;
     background-color: white;
     width: 1110px;
-    padding: 20px;
+    height: 300px;
+    padding: 0 130px;
 }
 
 header .achievement div{
