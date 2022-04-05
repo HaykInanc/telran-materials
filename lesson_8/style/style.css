@@ -92,5 +92,21 @@ header .achievement .text{
 #projects .cards div{
     width: 350px;
     min-height: 400px;
-    background-color: #95a5a6;
+    background-color: #24d7e4;
+}
+
+#projects .cards img{
+    width: 350px;
+    height: 380px;
+}
+
+#projects .cards h3{
+    font-size: 24px;
+    margin: 20px 0;
+}
+
+#projects .cards p{
+    font-size: 16px;
+    line-height: 22px;
+    color: #999999;
 }
