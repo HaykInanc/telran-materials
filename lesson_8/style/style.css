@@ -100,6 +100,12 @@ header .achievement .text{
     height: 380px;
 }
 
+#projects .cards hr{
+    border: 3px solid #F7654A;
+    width: 55px;
+    margin-top: 30px;
+}
+
 #projects .cards h3{
     font-size: 24px;
     margin: 20px 0;
