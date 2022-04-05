@@ -29,6 +29,13 @@ header h1{
     width:  734px
 }
 
+header .works{
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 10px 0;
+}
+
 header .achievement{
     display: flex;
     justify-content: space-between;
@@ -38,9 +45,21 @@ header .achievement{
     padding: 20px;
 }
 
-header .works{
-    color: white;
+header .achievement div{
+    text-align: center;
+}
+
+header .achievement .value{
+    color: #F7654A;
+    font-size: 72px;
+}
+
+header .achievement .year{
+    font-size: 36px;
+    color: black;
+}
+
+header .achievement .text{
+    color: #999999;
     font-size: 18px;
-    text-transform: uppercase;
-    padding: 10px 0;
 }
