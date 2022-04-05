@@ -19,20 +19,28 @@ header{
     align-items: center;
 }
 
-h1{
-    font-size: 64px;
-    line-height: 95px;
+header h1{
+    font-size: 45px;
+    line-height: 60px;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: uppercase;
     color: #FFFFFF;
+    width:  734px
 }
 
-.achievement{
+header .achievement{
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: white;
-    width: 600px;
+    width: 1110px;
     padding: 20px;
+}
+
+header .works{
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 10px 0;
 }
