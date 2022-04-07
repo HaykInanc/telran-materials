@@ -92,3 +92,20 @@ nav .btn:hover{
     padding-bottom: 35px;
     border-bottom: 8px solid #22356F;
 }
+
+#modes div{
+    width: 500px;
+    height: 500px;
+}
+
+#modes div:nth-child(1){
+    background-color: #22356F;
+}
+
+#modes div:nth-child(2){
+    background-color: #0052C1;
+}
+
+#modes div:nth-child(3){
+    background-color: #76B58B;
+}
