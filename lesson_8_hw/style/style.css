@@ -8,7 +8,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 15%;
+    margin: 0 15vw;
 }
 
 nav ul{
@@ -44,4 +44,32 @@ nav .btn{
 nav .btn:hover{
     color: white;
     background-color: #F9B640;
+}
+
+#services{
+    display: flex;
+}
+
+#services .text{
+    background-color: #62D0DF;
+    color: white;
+    width: 70%;
+    display: flex;
+    padding: 0 15vw;
+    flex-direction: column;
+    justify-content: center;
+    text-align: justify;
+}
+
+#services .text h2{
+    margin-bottom: 50px;
+}
+
+#services .text p {
+    font-size: 24px;
+}
+
+
+#services img{
+    width: 30%
 }
