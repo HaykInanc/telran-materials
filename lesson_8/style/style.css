@@ -146,4 +146,19 @@ header .achievement .text{
     width: 350px;
     height: 250px;
     background-color: #F7F7F7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#services .cards .icon{
+    font-size: 40px;
+    color: #F7654A;
+    margin-bottom: 30px;
+}
+
+#services .cards p {
+    width: 200px;
+    text-align: center;
 }
