@@ -125,3 +125,25 @@ header .achievement .text{
     margin: 0 auto;
     height: 180px;
 }
+
+#services{
+    width: 1110px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+#services h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#services .cards{
+    display: flex;
+    justify-content: space-between;
+}
+
+#services .cards div{
+    width: 350px;
+    height: 250px;
+    background-color: #F7F7F7;
+}
