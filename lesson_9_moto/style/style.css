@@ -9,7 +9,7 @@
     max-width: 1000px;
     margin: 0 auto;
     grid-template-columns: repeat(3, 1fr);
-    grid-auto-rows: minmax(300px, auto);
+    grid-auto-rows: minmax(450px, auto);
     grid-gap: 60px 30px;
 }
 
@@ -21,4 +21,14 @@
     width: 100%;
     height: 160px;
     object-fit: cover;
+}
+
+#moto .item .info{
+    padding: 20px;
+
+}
+
+#moto .item .title{
+    color: rgb(165, 165, 165);
+    margin-bottom: 20px;
 }
