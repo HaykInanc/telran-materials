@@ -6,11 +6,11 @@
 
 .wrap{
     display: grid;
-    grid-template-columns: 200px repeat(2, 1fr 2fr) 100px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
     height: 300px;
 }
 
-/* 200px 1fr 2fr 1fr 2fr 100px; */
 
 .item{
     background-color: #F39C12;
