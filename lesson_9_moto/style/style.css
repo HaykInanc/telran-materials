@@ -25,10 +25,15 @@
 
 #moto .item .info{
     padding: 20px;
-
 }
 
 #moto .item .title{
     color: rgb(165, 165, 165);
     margin-bottom: 20px;
+}
+
+@media (max-width: 768px){
+    #moto{
+        background-color: lightcoral;
+    }
 }
