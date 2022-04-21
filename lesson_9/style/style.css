@@ -6,7 +6,7 @@
 
 .wrap{
     display: grid;
-    grid-template-columns: repeat(3, 0.2fr);
+    grid-template-columns: 200px 0.5fr 100px;
 }
 
 .item{
