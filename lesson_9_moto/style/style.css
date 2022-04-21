@@ -47,3 +47,8 @@
         height: 100%;
     }
 }
+@media (max-width: 420px){
+    #moto .item img{
+        display: none;
+    }
+}
