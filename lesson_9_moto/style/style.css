@@ -14,7 +14,7 @@
 }
 
 #moto .item{
-    border: 2px solid black;
+    box-shadow: 0 0 15px 2px black;
 }
 
 #moto .item img{
@@ -47,6 +47,7 @@
         height: 100%;
     }
 }
+
 @media (max-width: 420px){
     #moto .item img{
         display: none;
