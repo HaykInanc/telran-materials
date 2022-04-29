@@ -8,6 +8,18 @@
     width: 300px;
     height: 300px;
     position: relative;
+    overflow: hidden;
+}
+
+.card::after{
+    content: 'Новинка';
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border-radius: 5px;
+    background-color: rgb(87, 87, 244);
+    color: white;
+    padding: 5px;
 }
 
 .card img{
@@ -30,3 +42,4 @@
 .card:hover .description{
     transform: translateY(0);   
 }
+
