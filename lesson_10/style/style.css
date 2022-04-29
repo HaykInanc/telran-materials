@@ -7,6 +7,7 @@
 .card{
     width: 300px;
     height: 300px;
+    position: relative;
 }
 
 .card img{
@@ -16,7 +17,11 @@
 }
 
 .card .description{
+    position: absolute;
     background-color: rgba(0, 0, 0, 0.8);
     color:aliceblue;
     padding: 10px;
+    left: 0;
+    bottom: 0;
+    transform: translateY(100%);
 }
