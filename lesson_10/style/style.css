@@ -9,12 +9,3 @@
     padding: 20px;
     width: 200px;
 }
-
-.inner_element{
-    padding: 20px;
-    background-color: coral;
-}
-
-.container:hover .inner_element{
-    background-color: blue;
-}
