@@ -11,7 +11,7 @@
     overflow: hidden;
 }
 
-.discount::after{
+[data-discount]::after{
     content: attr(data-discount);
     position: absolute;
     top: 10px;
