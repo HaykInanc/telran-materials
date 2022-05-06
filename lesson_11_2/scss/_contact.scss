@@ -1,5 +1,4 @@
 #contact{
-    padding: 40px;
-    min-height: 400px;
+    @extend %page;
     background-color: #fdcb6e;
 }

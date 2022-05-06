@@ -1,5 +1,4 @@
 #products{
-    min-height: 400px;
-    padding: 40px;
+    @extend %page;
     background-color: #fd79a8;
 }

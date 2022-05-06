@@ -3,21 +3,20 @@
   padding: 0;
 }
 
+#contact, #products, #main {
+  padding: 80px;
+  min-height: 600px;
+}
+
 #main {
   background-color: #6c5ce7;
-  padding: 40px;
-  min-height: 400px;
 }
 
 #products {
-  min-height: 400px;
-  padding: 40px;
   background-color: #fd79a8;
 }
 
 #contact {
-  padding: 40px;
-  min-height: 400px;
   background-color: #fdcb6e;
 }
 
