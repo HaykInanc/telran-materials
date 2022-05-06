@@ -3,6 +3,12 @@
   padding: 0;
 }
 
+#main {
+  background-color: #6c5ce7;
+  padding: 40px;
+  min-height: 400px;
+}
+
 .primary-block {
   background-color: #6c5ce7;
 }
