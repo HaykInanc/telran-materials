@@ -4,6 +4,9 @@
 }
 
 @import "color_config";
+@import "main";
+@import "products";
+@import "contact";
 
 .primary-block{
     background-color: $primary-color;
